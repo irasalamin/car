@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue
+}
+h1{
+text-align: center;
+}
+nav a:hover{
+font-size: large;
+background-color: rgb(15, 73, 148);
+color:white;
+}
+nav a{
+    color:black;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+.BMW{
+    display: block;
+    margin: 0 auto;
+}
